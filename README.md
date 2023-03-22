@@ -1,4 +1,4 @@
-## KuyNgafe 🍵
+## KuyNgecafe 🍵
 
 MERN `(MySQL, Express, React, Node)` stack Cafe Cashier App for UKK Framework SMK Telkom Malang.
 
